@@ -1,55 +1,41 @@
 <!--
-  GitHub profile README
-  ─────────────────────
-  To show this on your profile, create a public repository named exactly
-  like your username (e.g. github.com/jdoe/jdoe) and put this file at its root.
-
-  Placeholders are written as {{LIKE_THIS}}. Delete any section you don't need.
-  HTML comments like this one are not rendered.
+  GitHub profile README for Steinn Hauser Magnússon.
+  Put this file at the root of a public repo named exactly like your username.
+  Remaining placeholders: {{WEBSITE_URL}}, {{CV_URL}}, {{LINKEDIN_HANDLE}}.
 -->
 
-### Hi, I'm {{FIRST_NAME}} 👋
+### Hi, I'm Steinn 👋
 
-{{ONE_LINE_TAGLINE — e.g. "Data engineer building reliable pipelines for climate research."}}
+Cloud Operator in Berlin. I run Kubernetes platforms and automate the infrastructure around them.
 
-{{TWO_TO_THREE_SENTENCES_ABOUT_YOU — what you work on, what you care about, where you're based.}}
+I'm a physicist turned platform engineer. My path started in computational neuroscience, where I modelled brain signals at the University of Oslo. From there I moved into data science and NLP, then into building Azure microservices, and now I work in cloud operations at SENEC. I like systems that are secure by default, reproducible, and boring to run.
 
 ---
 
 **Currently**
 
-- 🔭 Working on {{CURRENT_ROLE_OR_PROJECT}}
-- 🌱 Learning {{CURRENT_LEARNING}}
-- 📍 {{CITY, COUNTRY}}
+- ☸️ Operating large-scale Kubernetes clusters with Terragrunt, Helm, ArgoCD and GitLab CI/CD
+- 🔐 Building secure, automated maintenance for 50+ Ansible-managed hosts over WireGuard, with a small Go client using mTLS
+- 📍 Berlin, Germany · 🗣️ English, Icelandic, Norwegian, German
 
-**Selected work**
+**Research & open source**
 
 | Project | Description |
 | --- | --- |
-| [{{PROJECT_1}}](https://github.com/{{USERNAME}}/{{REPO_1}}) | {{SHORT_DESCRIPTION_1}} |
-| [{{PROJECT_2}}](https://github.com/{{USERNAME}}/{{REPO_2}}) | {{SHORT_DESCRIPTION_2}} |
-| [{{PROJECT_3}}](https://github.com/{{USERNAME}}/{{REPO_3}}) | {{SHORT_DESCRIPTION_3}} |
+| [mne-python #13037](https://github.com/mne-tools/mne-python/pull/13037) | Cardiac artefact removal for spinal electrophysiology data, packaged into MNE as a guest developer at the Max Planck Institute for Human Cognitive and Brain Sciences |
+| [Brain signal predictions from multi-scale networks](https://doi.org/10.1371/journal.pcbi.1010353) | Co-author, *PLoS Computational Biology* (2022). A linearized framework for predicting LFP signals from network models |
+| MSc thesis, University of Oslo | Evaluated approximate methods for computing extracellular potentials from neuronal networks, using Python and LFPy |
 
-<!-- Optional: publications, talks or posts. Remove if not relevant. -->
-**Writing & talks**
-
-- [{{TITLE_1}}]({{URL_1}}) · {{VENUE_OR_SITE_1}}, {{YEAR_1}}
-- [{{TITLE_2}}]({{URL_2}}) · {{VENUE_OR_SITE_2}}, {{YEAR_2}}
+<!-- Add a row here for any of your own public repos you'd like to feature. -->
 
 **Tools I use most**
 
-{{LANGUAGE_1}} · {{LANGUAGE_2}} · {{FRAMEWORK_1}} · {{TOOL_1}} · {{TOOL_2}}
+Kubernetes · Helm · ArgoCD · Terraform / Terragrunt · Ansible · Docker · GitLab CI/CD · Azure · AWS · Prometheus / Grafana · Go · Python · Linux
+
+**Certifications**
+
+Microsoft Azure Administrator Associate (AZ-104) · ITIL 4 Foundation
 
 ---
 
-[Website]({{WEBSITE_URL}}) · [CV]({{CV_URL}}) · [LinkedIn](https://www.linkedin.com/in/{{LINKEDIN_HANDLE}}) · [Email](mailto:{{EMAIL}})
-
-<!--
-  Optional extras (kept out by default to stay clean):
-
-  Pinned repos: use GitHub's "Customize your pins" on your profile instead of
-  listing everything here — the README should complement the pins, not repeat them.
-
-  Stats card (third-party service, can be slow or rate-limited):
-  ![stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&hide_border=true&show_icons=true)
--->
+[Website]({{WEBSITE_URL}}) · [CV]({{CV_URL}}) · [LinkedIn](https://www.linkedin.com/in/{{LINKEDIN_HANDLE}}) · [Email](mailto:hausersteinn@gmail.com)
