@@ -10,6 +10,7 @@ I'm a physicist turned platform engineer. My path started in computational neuro
 
 - ☸️ Operating large-scale Kubernetes clusters with Terragrunt, Helm, ArgoCD and GitLab CI/CD
 - 🔐 Building secure, automated maintenance for 50+ Ansible-managed hosts over WireGuard, with a small Go client using mTLS
+- 🏛️ Building [Minnumst](https://github.com/steinnhauser/minnumst), a self-hosted family history archive: FastAPI, React and MariaDB, deployed with Ansible, Docker Compose, Traefik and Authentik
 - 📍 Berlin, Germany · 🗣️ English, Icelandic, Norwegian, German
 
 **Research & open source**
