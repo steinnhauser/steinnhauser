@@ -1,9 +1,3 @@
-<!--
-  GitHub profile README for Steinn Hauser Magnússon.
-  Put this file at the root of a public repo named exactly like your username.
-  Remaining placeholders: {{WEBSITE_URL}}, {{CV_URL}}, {{LINKEDIN_HANDLE}}.
--->
-
 ### Hi, I'm Steinn 👋
 
 Cloud Operator in Berlin. I run Kubernetes platforms and automate the infrastructure around them.
@@ -24,9 +18,7 @@ I'm a physicist turned platform engineer. My path started in computational neuro
 | --- | --- |
 | [mne-python #13037](https://github.com/mne-tools/mne-python/pull/13037) | Cardiac artefact removal for spinal electrophysiology data, packaged into MNE as a guest developer at the Max Planck Institute for Human Cognitive and Brain Sciences |
 | [Brain signal predictions from multi-scale networks](https://doi.org/10.1371/journal.pcbi.1010353) | Co-author, *PLoS Computational Biology* (2022). A linearized framework for predicting LFP signals from network models |
-| MSc thesis, University of Oslo | Evaluated approximate methods for computing extracellular potentials from neuronal networks, using Python and LFPy |
-
-<!-- Add a row here for any of your own public repos you'd like to feature. -->
+| [MSc thesis, University of Oslo](https://github.com/steinnhauser/msc-thesis-lfp) | Evaluated approximate methods for computing extracellular potentials from neuronal networks, using Python and LFPy |
 
 **Tools I use most**
 
@@ -38,4 +30,4 @@ Microsoft Azure Administrator Associate (AZ-104) · ITIL 4 Foundation
 
 ---
 
-[Website]({{WEBSITE_URL}}) · [CV]({{CV_URL}}) · [LinkedIn](https://www.linkedin.com/in/{{LINKEDIN_HANDLE}}) · [Email](mailto:hausersteinn@gmail.com)
+[Website](https://steinnhm.com) · [CV](https://steinnhm.com/cv/Steinn-Hauser-Magnusson-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/steinnhauser) · [Email](mailto:hausersteinn@gmail.com)
