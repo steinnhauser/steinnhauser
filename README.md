@@ -41,7 +41,7 @@ I'm a physicist turned platform engineer. My path started in computational neuro
 
 **Certifications**
 
-Microsoft Azure Administrator Associate (AZ-104) · ITIL 4 Foundation
+Microsoft Azure Administrator Associate ([AZ-104](https://learn.microsoft.com/en-us/users/steinnhausermagnusson-8948/credentials/e226b60f8028a1af)) · ITIL 4 Foundation
 
 ---
 
