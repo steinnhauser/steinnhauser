@@ -16,8 +16,8 @@ I'm a physicist turned platform engineer. My path started in computational neuro
 **Featured projects**
 
 <p>
-  <a href="https://github.com/steinnhauser/minnumst"><img src="assets/minnumst.png" alt="Minnumst: a shared written history of our ancestors" width="49%"></a>
-  <a href="https://github.com/steinnhauser/recipify"><img src="assets/recipify.png" alt="recipify: a messy recipe archive in, one searchable viewer out" width="49%"></a>
+  <a href="https://github.com/steinnhauser/minnumst"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/minnumst-dark.png"><img src="assets/minnumst.png" alt="Minnumst: a shared written history of our ancestors" width="49%"></picture></a>
+  <a href="https://github.com/steinnhauser/recipify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/recipify-dark.png"><img src="assets/recipify.png" alt="recipify: a messy recipe archive in, one searchable viewer out" width="49%"></picture></a>
 </p>
 
 - **[Minnumst](https://github.com/steinnhauser/minnumst)**: a self-hosted family history archive (FastAPI, React, PostgreSQL). OpenTofu creates the Hetzner host, Ansible hardens it to the CIS benchmarks (scored with Lynis in CI), and Traefik with Authentik is the only way in. Releases are multi-arch images with an SBOM and build provenance.
